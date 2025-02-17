@@ -1,0 +1,3 @@
+[submodule "mixxxdb"]
+	path = mixxxdb
+	url = git@github.com:KazuProg/mixxxdb-python.git
